@@ -3,7 +3,7 @@ public static void main(String args[]){
 System.out.println("The two numbers are:");
 int a = 18;
 int b = 6;
-System.out.print(" " + a + " " + b);
+System.out.println(" " + a + " " + b);
 int sum= a+b;
 int product= a*b;
 int division= a/b;
