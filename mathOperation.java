@@ -1,9 +1,9 @@
 class mathOperation{
 public static void main(String args[]){
-System.out.println("Enter two numbers:");
+System.out.println("The two numbers are:");
 int a = 18;
 int b = 6;
-System.out.println(a + " " + b);
+System.out.print(" " + a + " " + b);
 int sum= a+b;
 int product= a*b;
 int division= a/b;
