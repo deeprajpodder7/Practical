@@ -2,11 +2,11 @@ public class InitializationUsingMethod {
 	public static void main(String[] args) {
 		
 		Student s1 = new Student();
-		s1.input("Arnab Mondal", 19);
+		s1.input("Deepraj Podder", 22);
 
 		// Creating another object of student class.
 		Student s2 = new Student();
-		s2.input("Sourdeep Mondal", 12);
+		s2.input("Dipak Podder", 32);
 
 		// Calling output method to print the values
 		s1.output();
